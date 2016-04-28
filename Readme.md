@@ -1,6 +1,6 @@
 ﻿# RecyclerView plugin
 
-The RecyclerView is a more advanced and flexible version of ListView. It ist is a container for displaying large data sets that can be scrolled very efficiently by maintaining a limited number of views. 
+The RecyclerView is a more advanced and flexible version of ListView. It is a container for displaying large data sets that can be scrolled very efficiently by maintaining a limited number of views. 
 
 ## Installation
 `tns plugin add recycler-view`
